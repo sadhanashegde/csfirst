@@ -316,23 +316,6 @@ This project is licensed under the MIT License.
 
 For questions or support, please open an issue on GitHub.
 
-## 📸 Screenshots
 
-### Homepage
-![Homepage](https://via.placeholder.com/800x600?text=Homepage+with+Repository+Input)
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x600?text=Analytics+Dashboard)
-
-### Contributor Chart
-![Contributor Chart](https://via.placeholder.com/800x600?text=Contributor+Bar+Chart)
-
-### Commit Activity
-![Commit Activity](https://via.placeholder.com/800x600?text=Commit+Activity+Area+Chart)
-
-### Language Distribution
-![Language Distribution](https://via.placeholder.com/800x600?text=Language+Pie+Chart)
-
----
-
-Built with ❤️ using React, TypeScript, and Docker
+Built with ❤️ using React, TypeScript, and Docker and windsurf
